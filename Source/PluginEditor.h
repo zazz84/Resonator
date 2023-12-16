@@ -25,7 +25,7 @@ public:
 	static const int SCALE = 70;
 	static const int LABEL_OFFSET = 25;
 	static const int SLIDER_WIDTH = 200;
-	static const int HUE = 56;
+	static const int HUE = 50;
 
     //==============================================================================
     void paint (juce::Graphics&) override;

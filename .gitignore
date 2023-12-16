@@ -121,3 +121,67 @@ JuceLibraryCode/JuceHeader.h
 JuceLibraryCode/JucePluginDefines.h
 JuceLibraryCode/ReadMe.txt
 Resonator.filtergraph
+Builds/VisualStudio2017/.vs/Resonator/v15/ipch/AutoPCH/13db1ad6087d7256/PLUGINPROCESSOR.ipch
+Builds/VisualStudio2017/.vs/Resonator/v15/ipch/AutoPCH/203c9773730d6671/PLUGINEDITOR.ipch
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_audio_basics.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_audio_devices.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_audio_formats.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_audio_plugin_client_ARA.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_audio_processors.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_audio_processors_ara.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_audio_processors_lv2_libs.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_audio_utils.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_core.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_data_structures.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_events.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_graphics.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_gui_basics.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/include_juce_gui_extra.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/PluginEditor.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/PluginProcessor.obj
+Builds/VisualStudio2017/x64/Release/Shared Code/Resonato.3A97D3A1.tlog/CL.11496.write.1.tlog
+Builds/VisualStudio2017/x64/Release/Shared Code/Resonato.3A97D3A1.tlog/CL.command.1.tlog
+Builds/VisualStudio2017/x64/Release/Shared Code/Resonato.3A97D3A1.tlog/CL.read.1.tlog
+Builds/VisualStudio2017/x64/Release/Shared Code/Resonato.3A97D3A1.tlog/Lib-link.read.1.tlog
+Builds/VisualStudio2017/x64/Release/Shared Code/Resonato.3A97D3A1.tlog/Lib-link.write.1.tlog
+Builds/VisualStudio2017/x64/Release/Shared Code/Resonato.3A97D3A1.tlog/Lib.command.1.tlog
+Builds/VisualStudio2017/x64/Release/Shared Code/Resonato.3A97D3A1.tlog/Resonator_SharedCode.lastbuildstate
+Builds/VisualStudio2017/x64/Release/Shared Code/Resonator.lib
+Builds/VisualStudio2017/x64/Release/Shared Code/Resonator.pdb
+Builds/VisualStudio2017/x64/Release/Shared Code/Resonator_SharedCode.log
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/juce_vst3_helper.exe
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/juce_vst3_helper.pdb
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/juce_VST3ManifestHelper.obj
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/Resonato.886C7D19.tlog/CL.command.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/Resonato.886C7D19.tlog/CL.read.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/Resonato.886C7D19.tlog/CL.write.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/Resonato.886C7D19.tlog/link.command.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/Resonato.886C7D19.tlog/link.read.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/Resonato.886C7D19.tlog/link.write.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/Resonato.886C7D19.tlog/rc.command.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/Resonato.886C7D19.tlog/rc.read.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/Resonato.886C7D19.tlog/rc.write.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/Resonato.886C7D19.tlog/Resonator_VST3ManifestHelper.lastbuildstate
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/Resonator_VST3ManifestHelper.log
+Builds/VisualStudio2017/x64/Release/VST3 Manifest Helper/resources.res
+Builds/VisualStudio2017/x64/Release/VST3/include_juce_audio_plugin_client_VST3.obj
+Builds/VisualStudio2017/x64/Release/VST3/Resonator.dll
+Builds/VisualStudio2017/x64/Release/VST3/Resonator.exp
+Builds/VisualStudio2017/x64/Release/VST3/Resonator.lib
+Builds/VisualStudio2017/x64/Release/VST3/Resonator.pdb
+Builds/VisualStudio2017/x64/Release/VST3/Resonator.vst3/Contents/Resources/moduleinfo.json
+Builds/VisualStudio2017/x64/Release/VST3/Resonator.vst3/Contents/x86_64-win/Resonator.vst3
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.log
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.tlog/CL.command.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.tlog/CL.read.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.tlog/CL.write.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.tlog/link.command.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.tlog/link.delete.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.tlog/link.read.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.tlog/link.write.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.tlog/rc.command.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.tlog/rc.read.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.tlog/rc.write.1.tlog
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.tlog/Resonator_VST3.lastbuildstate
+Builds/VisualStudio2017/x64/Release/VST3/Resonator_VST3.tlog/Resonator_VST3.write.1u.tlog
+Builds/VisualStudio2017/x64/Release/VST3/resources.res
